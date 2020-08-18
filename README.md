@@ -8,9 +8,12 @@ There's a number of affordable options
 - Dell H310
 
 ## Cross flashing to a LSI9211-8i
-https://linustechtips.com/main/topic/104425-flashing-an-lsi-9211-8i-raid-card-to-it-mode-for-zfssoftware-raid-tutorial/
+
+https://wiki.unraid.net/Crossflashing_Controllers
 
 https://www.servethehome.com/ibm-serveraid-m1015-part-4/
+
+https://linustechtips.com/main/topic/104425-flashing-an-lsi-9211-8i-raid-card-to-it-mode-for-zfssoftware-raid-tutorial/
 
 ## General: Convert LSI9240(IBM M1015) to a LSI9211-IT mode <sup>[servethehome-com](#servethehome-com-ibm-serveraid-m1015)</sup>
 
