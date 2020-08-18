@@ -1,5 +1,11 @@
 # homelab
 
+```
+*** Disclaimer – You are doing this at your own risk ***
+*** You should understand the risk of bricking your hardware ***
+*** Please do not do it if you could not afford it ***
+```
+
 ## Adding more HDDs with SAS HBA (host bus adapter)
 
 There's a number of affordable options
